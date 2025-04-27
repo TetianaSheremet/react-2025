@@ -1,0 +1,14 @@
+.wrapper{
+    background-color: #d0b9e8;
+    font-size: 20px;
+}
+
+.body{
+    margin:0;
+    background-color: #fdfd84;
+    font-size: 16px;
+}
+
+body{
+    margin:0;
+}

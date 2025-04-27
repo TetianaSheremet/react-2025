@@ -1,0 +1,17 @@
+.wrapper{
+    height:200px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+.unorderedlist{
+    list-style-type: none;
+
+    color: #2f5959;
+}

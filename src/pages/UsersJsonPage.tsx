@@ -1,9 +1,9 @@
-
+import {UsersJsonComponent} from "../components/UsersJsonComponent/UsersJsonComponent.tsx";
 export const UsersJsonPage = () => {
     return (
         <div>
 
-            this is users json
+            <UsersJsonComponent></UsersJsonComponent>
 
         </div>
     );

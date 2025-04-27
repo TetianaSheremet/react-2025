@@ -1,9 +1,10 @@
+import {UsersDummyComponent} from "../components/UsersDummyComponent/UsersDummyComponent.tsx";
 
 
 export const UsersDummyPage = () => {
     return (
         <div>
-            this is users dummy
+           <UsersDummyComponent></UsersDummyComponent>
         </div>
     );
 };

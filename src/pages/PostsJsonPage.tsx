@@ -1,5 +1,7 @@
+import {PostsJsonComponent} from "../components/PostsJsonComponents/PostsJsonComponent.tsx";
+
 export const PostsJsonPage = () => {
     return (
-        <div>this is posts json</div>
+       <PostsJsonComponent></PostsJsonComponent>
     );
 };
