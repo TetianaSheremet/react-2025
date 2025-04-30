@@ -6,20 +6,13 @@ const MenuComponent = () => {
         <div>
             <ul className={styles.wrapper}>
                 <li>
-                    <Link to={"users/jsonplaceholder"}>Users Json</Link> </li>
+                    <Link to={"users"}>Users </Link> </li>
                 <li>
-                    <Link to={"posts/jsonplaceholder"}>Posts Json</Link> </li>
+                    <Link to={"posts"}>Posts </Link> </li>
                 <li>
-                    <Link to={"comments/jsonplaceholder"}>Comments Json</Link> </li>
-                <li>
-                   < Link to={"posts/dummyjson"} >Posts Dummy</Link>
-                </li>
-                <li>
-                    < Link to={"users/dummyjson"} >Users Dummy</Link>
-                </li>
-                <li>
-                    < Link to={"comments/dummyjson"} >Comments Dummy</Link>
-                </li>
+                    <Link to={"comments"}>Comments</Link> </li>
+
+
             </ul>
 
         </div>

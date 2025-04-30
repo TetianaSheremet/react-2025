@@ -2,6 +2,8 @@ import {CommentsDummyComponent} from "../components/CommentsDummyComponent/Comme
 
 export const CommentsDummyPage = () => {
     return (
-        <div><CommentsDummyComponent/></div>
+        <div>
+            <CommentsDummyComponent/>
+        </div>
     );
 };

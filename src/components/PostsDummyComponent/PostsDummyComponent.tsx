@@ -27,7 +27,7 @@ export const PostsDummyComponent = () => {
 
     return (
         <div>{
-            posts.map((post)=><PostDummyComponent post={post}/>)
+            posts.map((post)=><PostDummyComponent key={post.id} post={post}/>)
         }</div>
     );
 };

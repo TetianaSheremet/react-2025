@@ -3,7 +3,7 @@ export const UsersJsonPage = () => {
     return (
         <div>
 
-            <UsersJsonComponent></UsersJsonComponent>
+            <UsersJsonComponent/>
 
         </div>
     );
