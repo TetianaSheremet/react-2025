@@ -50,5 +50,10 @@ export default tseslint.config({
     ...reactX.configs['recommended-typescript'].rules,
     ...reactDom.configs.recommended.rules,
   },
+    
+    
 })
 ```
+UsersPage – відтворює користувачів з api dummyjson.com (довільна розмітка та кількість інфи про об’єкт).
+
+Додати кнопки “вперед” “назад” для пагінації об’єктів.
