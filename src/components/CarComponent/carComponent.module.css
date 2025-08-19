@@ -1,0 +1,17 @@
+.wrapper{
+    height: 100px;
+    width: 100%;
+    background-color: #dca3d2;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+.wrapper>ul{
+    list-style-type: none;
+    font-size: 16px;
+    color: #053e3e;
+}
+.wrapper>h4{
+    color: #0d6c0d;
+}
